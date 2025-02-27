@@ -1,0 +1,30 @@
+[technote]
+id = "SITCOMTN-096"
+series_id = "SITCOMTN"
+canonical_url = "https://sitcomtn-096.lsst.io/"
+github_url = "https://github.com/lsst-sitcom/sitcomtn-096"
+github_default_branch = "main"
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+[[technote.authors]]
+name = {given = "Yijung", family = "Kang"}
+internal_id = "kangy"
+orcid = "https://orcid.org/0000-0002-5261-5803"
+[[technote.authors.affiliations]]
+name = "Kavli Institute for Particle Astrophysics and Cosmology"
+internal_id = "SLAC-Kavli"
+address = "SLAC National Accelerator Laboratory, Stanford University, Stanford, CA 94025, USA"
+[[technote.authors.affiliations]]
+name = "Vera C. Rubin Observatory"
+internal_id = "RubinObsC"
+address = "Avenida Juan Cisternas #1500, La Serena, Chile"
+
+[[technote.authors]]
+name = {given = "Gabriele", family = "Rodeghiero"}
+internal_id = "rodeghierog"
+orcid = "https://orcid.org/0000-0002-3469-9863"
+[[technote.authors.affiliations]]
+name = "INAF Osservatorio di Astrofisica e Scienza dello Spazio Bologna"
+internal_id = "INAF-OAS"
+address = "Via P. Gobetti 93/3, 40129, Bologna, Italy"
