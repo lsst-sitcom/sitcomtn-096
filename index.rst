@@ -45,10 +45,12 @@ Related Tickets and Test Cases
 Related Requirements
 ====================
 * **LTS-146-REQ-0159** : 3.5.9 Mirror Tangent Actuator (Link) Control
-Specification: The tangent links SHALL function as two opposite sets of kinematic supports.
+
+    Specification: The tangent links SHALL function as two opposite sets of kinematic supports.
 
 * **LTS-146-REQ-0160** : Outer Control Loop
-Specification: The outer control loop SHALL determine the command forces for all the axial actuators of the M2 mirror support system and convert them into motor steps in order to command the inner loop controllers. In closed-loop mode, it sends force commands to a single axial actuator and a single tangent link to verify the outer control loop converts the command forces into motor steps.
+
+    Specification: The outer control loop SHALL determine the command forces for all the axial actuators of the M2 mirror support system and convert them into motor steps in order to command the inner loop controllers. In closed-loop mode, it sends force commands to a single axial actuator and a single tangent link to verify the outer control loop converts the command forces into motor steps.
 
 Execution Details and Data
 ==========================
